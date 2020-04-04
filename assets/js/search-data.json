@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Title",
-            "content": "# Early reflections &gt; Initial ramblings about my time during COVID - toc: true - badges: true - comments: true - author: Sean Harbison - categories: [COVID, blog] . File &#34;&lt;ipython-input-5-bc3b284bd199&gt;&#34;, line 2 &gt; Initial ramblings about my time during COVID ^ SyntaxError: invalid syntax . . Warning: This post will be mostly nonsense. . # Intro I am mainly using this as an opportunity to reflect during lockdown and hopefully will have something to look back on and remind myself of thoughts and feelings. Also just keen to try out fastpages and see how easy it is to use &amp; whether I like it for general blogging that includes 0 code. . collapse-hide . Because this is kinda fun. .",
-            "url": "https://sharbi.github.io/covid_diary/2020/04/04/start.html",
-            "relUrl": "/2020/04/04/start.html",
+            "title": "Early reflections",
+            "content": ". Warning: This post will be mostly nonsense. . Intro . I am mainly using this as an opportunity to reflect during lockdown and hopefully will have something to look back on and remind myself of thoughts and feelings. . Also just keen to try out fastpages and see how easy it is to use &amp; whether I like it for general blogging that includes 0 code. . #collapse-hide Because this is kinda fun. . .",
+            "url": "https://sharbi.github.io/covid_diary/covid/blog/2020/04/04/start.html",
+            "relUrl": "/covid/blog/2020/04/04/start.html",
             "date": " • Apr 4, 2020"
         }
         
